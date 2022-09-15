@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hii
 hello
 hwr
@@ -7,3 +8,8 @@ tt
 gg
 cc
 >>>>>>> sub1
+=======
+zz
+mm
+nn
+>>>>>>> sub2
