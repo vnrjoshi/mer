@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 hii
 hello
 hwr
+=======
+tt
+gg
+cc
+>>>>>>> sub1
